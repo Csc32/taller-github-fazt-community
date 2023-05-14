@@ -1,5 +1,4 @@
 # taller-github-fazt-community
 
-djdsak
-jkdñsajkñdjdsakñ
-jksadljd
+hola comunidad de fazt
+
