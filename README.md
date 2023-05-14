@@ -5,4 +5,5 @@ hola comunidad de fazt
 ## Asistentes
 
 - ElWazy
+- TamVanum
 
